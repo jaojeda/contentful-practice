@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Bio renders the bio section 1`] = `
+<div
+  className="bio"
+>
+  <p>
+    Written by 
+    <strong>
+      Jose Ojeda
+    </strong>
+     
+    who lives and works in Portland building useful things.
+     
+    <a
+      href="https://twitter.com/JosAOjed"
+    >
+      You should follow them on Twitter
+    </a>
+  </p>
+</div>
+`;
